@@ -38,8 +38,3 @@ exclude:
   - LICENSE
 
 hide_goals:
-  - "3"
-
-  - "3"
-  - "2"
-
